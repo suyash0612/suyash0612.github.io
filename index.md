@@ -3,6 +3,7 @@ title: "Suyash Sawant"
 ---
 
 # Suyash Sawant
+<img width="460" height="460" alt="image" src="https://github.com/user-attachments/assets/9f6857cf-655e-43e0-b1f5-1343f2978ed3" />
 
 ## About Me
 I am a Business Analytics student at the University of Illinois Urbana-Champaign (Gies College of Business), passionate about bridging business intuition with data science to create value. With experience at DigiPlus IT and Tata Consultancy Services, I've led end-to-end testing for complex digital platforms in the telecom and gaming sectors and developed analytical solutions to drive insights.
